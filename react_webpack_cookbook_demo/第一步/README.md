@@ -67,11 +67,8 @@ build/index.html
 npm是一个非常好用的用来编译的指令，通过npm你可以不用担心项目中使用什么技术，你还要调用这个指令就可以了，只要你在`package.json`中设置`script`就可以了
 
 本案例我们把编译步骤放到npm run build中：
+
 1. 执行npm init
-2. 在package.json加入
-```js
-"scripts": {
-    "build": "webpack"
-}
-```
+2. 在package.json加入`"scripts": {"build": "webpack"}`
 3. npm run build就可以编译了
+
