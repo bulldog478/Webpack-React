@@ -1,0 +1,14 @@
+{
+  "name": "first-step",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Zan",
+  "license": "MIT"
+}
