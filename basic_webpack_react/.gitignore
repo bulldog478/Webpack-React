@@ -1,0 +1,9 @@
+node_modules
+build
+.ide
+demo01/build
+demo02/build
+demo03/build
+demo04/build
+demo05/build
+demo06/build
